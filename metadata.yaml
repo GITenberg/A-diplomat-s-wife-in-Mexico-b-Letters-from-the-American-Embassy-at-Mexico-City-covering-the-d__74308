@@ -1,5 +1,8 @@
 _repo: A-diplomat-s-wife-in-Mexico-b-Letters-from-the-American-Embassy-at-Mexico-City-covering-the-d__74308
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74308-h/images/cover.jpg
 creator:
   author:
     agent_name: O'Shaughnessy, Edith
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/42826
     wikipedia: https://en.wikipedia.org/wiki/Edith_O%27Shaughnessy
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74308#A-diplomat-s-wife-in-Mexico-b-Letters-from-the-American-Embassy-at-Mexico-City-covering-the-d_
 gutenberg_issued: '2024-08-24'
 gutenberg_type: Text
 identifiers:
